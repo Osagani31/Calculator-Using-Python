@@ -29,7 +29,7 @@ As a **Computer Science undergraduate**, I built this project to strengthen my u
 
 ## 🖼️ Preview
 
-
+![image](https://github.com/user-attachments/assets/fae7ae4f-209c-4da3-aed1-4961066f7130)
 
 ---
 
@@ -39,5 +39,10 @@ As a **Computer Science undergraduate**, I built this project to strengthen my u
 
 - Python 3.x  
 - (Optional) Windows OS for `winsound` beep
+
+### Tools
+- VS code:
+  
+![image](https://github.com/user-attachments/assets/a1a8a89a-9a8d-4548-a5b2-0e6855875213)
 
 
